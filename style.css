@@ -1,0 +1,21 @@
+body{
+    background-color:purple;
+}
+p{
+background-color: lightcoral;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: violet;
+}
+
+.name_of_the_object{
+    color: lightblue;
+}
+
+#camera{
+    border-style: ridge;
+    border-color: pink ;
+    border-width: 20;
+    
+}
